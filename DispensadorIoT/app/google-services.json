@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "621437149020",
+    "project_id": "dispensador-iot-e8135",
+    "storage_bucket": "dispensador-iot-e8135.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621437149020:android:eee58745b482b17d006b99",
+        "android_client_info": {
+          "package_name": "cl.inacap.dispensador"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABdq4zTZ9vV_zWwt5nZgh8NGFqe9Niggc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

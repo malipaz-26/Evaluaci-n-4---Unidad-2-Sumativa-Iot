@@ -1,0 +1,13 @@
+{
+  "porcentajeNivel": 85,
+  "distanciaCm": 14,
+  "ultimaRacion": "Hoy 08:30 hrs (4 seg)",
+  "estaEnLinea": true,
+  "ssid": "Dispensador_AP",
+  "ipGateway": "192.168.4.1",
+  "historial": [
+    { "fecha": "Hoy 08:30 hrs", "tipo": "Automático (Mañana)", "duracionSeg": 5 },
+    { "fecha": "Ayer 20:00 hrs", "tipo": "Manual Remoto", "duracionSeg": 4 },
+    { "fecha": "Ayer 12:00 hrs", "tipo": "Pulsador Físico", "duracionSeg": 3 }
+  ]
+}
